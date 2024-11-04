@@ -37,7 +37,7 @@ This project utilizes pthreads to implement a multithreaded approach for prime n
 
 ### Usage
 Run the program with the following command:
-```bash
+```natural
 ./prime_calculator <num_1> <num_2>
 ```
 
